@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gideon
 - 👀 I’m interested in programming
 - 🌱 I’m currently working with Java, html, css and currently learning python.
-- 💞️ I’m looking to collaborate on html mainly because of the hard assignments
+- 💞️ I’m looking to collaborate on html mainly because of the hard assignments.
 - 📫 How to reach me:gidinsambu@gmail.com
 
 <!---
